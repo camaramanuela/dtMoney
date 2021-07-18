@@ -43,5 +43,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/manuelabognar/dtMoney.git",
+  "author": "Manuela Bognar <manuelabcamara@gmail.com>",
+  "license": "MIT"
 }
